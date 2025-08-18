@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="harj5.cpp">
+    <ClCompile Include="saikeistys5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
