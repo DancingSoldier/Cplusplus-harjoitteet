@@ -27,7 +27,7 @@
     <ProjectGuid>{a20ef103-5288-47e5-910c-6d242a1371e6}</ProjectGuid>
     <RootNamespace>Cplusplusharjoitteet</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Cplusplus-harj1</ProjectName>
+    <ProjectName>Saikeistys1</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
